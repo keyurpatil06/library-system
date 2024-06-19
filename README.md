@@ -5,7 +5,7 @@ A Java-based library management system where users can create accounts with uniq
 
 ## Features
 - **User Account Creation and Authentication:** Unique username and password hashing for secure signup/signin.
-- **Deposit Functionality:** Users can deposit books into the library.
+- **Deposit Functionality:** Users can deposit money into the library.
 - **Issue and Return Books:** Users can issue and return books, managing their borrowed items.
 - **Fine Payment:** Capability to pay fines for overdue books.
 - **Display Account Details:** Users can view their account information.
